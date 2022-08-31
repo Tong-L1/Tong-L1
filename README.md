@@ -30,6 +30,30 @@
 ### 📕学习情况
 
 
+👌 熟悉的语言: 
+
+&emsp;&emsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/php-0078D7?style=flat-square&logo=php&logoColor=white)
+
+🧰 常用的工具:
+
+&emsp;&emsp; 
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-007ACC?style=flat-square&logo=Visual%20Studio&logoColor=fff)
+![Eclipse](https://img.shields.io/badge/Eclipse-blue?style=flat-square&logo=eclipse&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-yellow?style=flat-square&logo=pycharm&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-0078D7?style=flat-square&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+![navicat](https://img.shields.io/badge/-navicat-green?style=flat-square)
 
 <hr>
 
@@ -40,6 +64,7 @@
 ❌🏆❌
 
 也是因为自己能力不足吧，赛后和得奖的小组作品比较，确实有差距，也值得学习。
+继续加油！！！💪
 
 <hr>
 
