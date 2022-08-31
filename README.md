@@ -4,8 +4,7 @@
 
 
 <div align="center">
-<a href="https://www.cnblogs.com/a8047/"><img src="https://img.shields.io/badge/cnblogs-%E5%8D%9A%E5%AE%A2-yellow"></a> &emsp;
-<img src="https://visitor-badge.glitch.me/badge?page_id=Tong-L1" alt="访客统计" /></div>
+<a href="https://www.cnblogs.com/a8047/"><img src="https://img.shields.io/badge/cnblogs-%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%9B%AD-yellow"></a> &emsp;
 </div>
  
 <hr>
