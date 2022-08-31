@@ -2,6 +2,8 @@
 
 大家好，我是Tong-L1,就读于石家庄铁道大学软件工程系。从小对计算机感兴趣，希望成为一名出色的软件工程师。
 
+
+
 <div align="center">
  
 --> <a href="https://www.baidu.com"><img height="100px" src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic.51yuansu.com%2Fpic2%2Fcover%2F00%2F43%2F06%2F581069a593fa4_610.jpg&refer=http%3A%2F%2Fpic.51yuansu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1664559120&t=ab599668eff7bdd57af054926e4f5cf9"></a> <--
@@ -12,8 +14,7 @@
  <a href="https://www.cnblogs.com/a8047/"><img src="https://img.shields.io/badge/cnblogs-%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%9B%AD-yellow"></a> &emsp;
 <p>
 <p>
- <img order-radius="100px" src="https://ss1.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/exp/w=500/sign=8c6daad4a218972ba33a00cad6cc7b9d/f703738da9773912ef6013a1f1198618377ae2a8.jpg"/>
-
+ 
  
 <hr>
 </div>
@@ -57,10 +58,14 @@
 
 <hr>
 
-### 社会活动情况
+### 🎭社会活动情况
 
 目前未进行专业相关的实习工作；在超市打过工，在社区做过防疫志愿者，社交能力中等偏上，在特别场合还是会紧张。
 
+一般喜欢在夜晚🌙敲代码
+<div align="center">
+<img  width="400" src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp8.itc.cn%2Fimages01%2F20200805%2F8d5757978f9c4d1096a36629010f2c9a.jpeg&refer=http%3A%2F%2Fp8.itc.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1664564369&t=739e5457d4d6b4cdabf1161966898b10"/>
+</div>
 
 <hr>
 
@@ -77,7 +82,7 @@
 
 
 
-### 专业技能
+### 💻专业技能
 
 掌握JavaWeb(jsp+servlet+javaBean...)
 
@@ -89,7 +94,7 @@
 
 <hr>
 
-### 博客
+### 📃博客
 
 推荐几篇我的博客😊
 
@@ -107,3 +112,6 @@
 
 ### 欢迎大家交流学习，一起进步💪
 
+<div align="center">
+<img order-radius="100px" src="https://ss1.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/exp/w=500/sign=8c6daad4a218972ba33a00cad6cc7b9d/f703738da9773912ef6013a1f1198618377ae2a8.jpg"/>
+</div>
