@@ -89,7 +89,7 @@
 
 熟悉大数据采集、处理、分析、可视化展示等工程(python爬虫、hive、Kettle、SQL、echarts...)
 
-了解分布式机制(hadoop、hbase...)
+了解分布式机制(hadoop、hive、hbase...)
 
 
 
